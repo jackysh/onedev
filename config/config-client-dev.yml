@@ -1,4 +1,4 @@
 data:
   user:
-    role: admin
+    role: dev
     name: root
